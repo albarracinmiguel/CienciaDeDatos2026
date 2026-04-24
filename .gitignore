@@ -1,0 +1,11 @@
+# Virtual environment
+Lib/
+Include/
+Scripts/
+pyvenv.cfg
+etc/
+share/
+.ipynb_checkpoints/
+
+# Claude memory
+.claude/
